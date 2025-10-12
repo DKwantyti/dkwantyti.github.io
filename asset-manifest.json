@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d87c2fdf.css",
+    "main.js": "/my-app/static/js/main.d3f39cab.js",
+    "static/media/vision.png": "/my-app/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/my-app/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/error.gif": "/my-app/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/my-app/index.html",
+    "main.d87c2fdf.css.map": "/my-app/static/css/main.d87c2fdf.css.map",
+    "main.d3f39cab.js.map": "/my-app/static/js/main.d3f39cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87c2fdf.css",
+    "static/js/main.d3f39cab.js"
+  ]
+}
